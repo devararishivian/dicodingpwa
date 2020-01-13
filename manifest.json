@@ -1,0 +1,22 @@
+{
+    "name": "Perancis League",
+    "short_name": "Perancis",
+    "description": "Aplikasi PWA Liga Perancis",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "/images/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id": "207569005508"
+}
