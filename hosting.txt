@@ -1,2 +1,2 @@
-https://dicoding-devz.firebaseapp.com/
-https://devararishivian.github.io/dicoding-pwa/
+https://devzdicodingpwa.firebaseapp.com/
+https://devararishivian.github.io/dicodingpwa/index.html
